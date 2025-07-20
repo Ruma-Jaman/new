@@ -1,0 +1,7 @@
+{
+  "email": "testuser@example.com",
+  "password": "Test@1234",
+  "cardHolder": "Test User",
+  "cardNumber": "4111111111111111",
+  "cvv": "129"
+}
