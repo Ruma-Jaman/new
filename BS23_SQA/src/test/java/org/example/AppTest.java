@@ -1,3 +1,7 @@
+import org.openqa.selenium.WebElement;
+import java.util.List;
+import java.io.FileReader;
+import java.io.IOException;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import org.openqa.selenium.By;
